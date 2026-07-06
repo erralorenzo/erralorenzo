@@ -86,7 +86,7 @@ Applications of Large Language Models to biomedical research.
 
 - Pandas, NumPy, Matplotlib, Plotly, Scikit-learn
 
-### [Example 🔗]([https://pubmed.ncbi.nlm.nih.gov/?term=Erra+Lorenzo](https://zlavani.github.io/portfoliozlavani/index.html))
+### Example [Portfolio 🔗](https://zlavani.github.io/portfoliozlavani/index.html)
 
 ---
 
