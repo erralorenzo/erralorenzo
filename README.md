@@ -45,7 +45,7 @@ Projects involving statistics, visualization and biomedical data exploration.
 - Cohort visualization
 - Clinical data mining
 - Publication-quality figures
-- Python [Course🔗]([https://github.com/zlavani/ICB](https://github.com/zlavani/ICB-FinalWork))
+- [Example1🔗](https://github.com/zlavani/ICB-FinalWork)
 ---
 
 ## ⚙ Bioinformatics Pipelines
