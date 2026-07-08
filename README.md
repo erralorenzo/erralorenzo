@@ -45,7 +45,7 @@ Projects involving statistics, visualization and biomedical data exploration.
 - Cohort visualization
 - Clinical data mining
 - Publication-quality figures
-
+- Python [Course🔗]([https://github.com/zlavani/ICB](https://github.com/zlavani/ICB-FinalWork))
 ---
 
 ## ⚙ Bioinformatics Pipelines
@@ -76,7 +76,7 @@ Applications of Large Language Models to biomedical research.
 
 ### Programming
 
-- Python,
+- Python [Course🔗](https://github.com/zlavani/ICB)
 - R [Course🔗](https://github.com/lerra-lerra/Fundamentos-de-Ciencia-de-Datos/)
 - Bash
 
