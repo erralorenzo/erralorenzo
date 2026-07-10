@@ -46,6 +46,7 @@ Projects involving statistics, visualization and biomedical data exploration.
 - Clinical data mining
 - Publication-quality figures
 - [Example1🔗](https://github.com/zlavani/ICB-FinalWork)
+- [Example2🔗](https://github.com/zlavani/Omics-course)
 ---
 
 ## ⚙ Bioinformatics Pipelines
